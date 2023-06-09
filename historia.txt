@@ -1,3 +1,4 @@
 Este es un archivo de texto creado con VSC, con cambios
 linea 2
 linea3
+esto indica que esta trackeado
