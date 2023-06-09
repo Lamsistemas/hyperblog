@@ -1,1 +1,1 @@
-Este es un archivo de texto creado con VSC
+Este es un archivo de texto creado con VSC, con cambios
